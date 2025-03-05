@@ -25,3 +25,4 @@ Used for compressing and extracting .rar files. rar assists in the creation, mod
 ![image](https://github.com/user-attachments/assets/eea04b38-bf05-4580-b3ab-5a899eeaa4da)
 
 ### Show CPU info:
+![image](https://github.com/user-attachments/assets/007705db-734e-408e-ab77-16bd7cffda76)
