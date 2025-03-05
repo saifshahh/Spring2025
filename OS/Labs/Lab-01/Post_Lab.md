@@ -59,3 +59,9 @@ Used for compressing and extracting .rar files. rar assists in the creation, mod
 
 ### Remove a directory called 'dir1' and contents recursively:
 ![image](https://github.com/user-attachments/assets/58f4e396-7a1a-49bd-bfa8-d4ae4e9ce8a6)
+
+### Delete an empty directory called 'dir1':
+![image](https://github.com/user-attachments/assets/c541f71c-ce78-4c4b-8634-3429e1e24c30)
+
+### Modify timestamp of a file or directory:
+![image](https://github.com/user-attachments/assets/a61658fd-72e7-459c-a1dd-11a1aafc47a7)
