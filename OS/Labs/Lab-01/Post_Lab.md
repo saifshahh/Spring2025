@@ -21,8 +21,20 @@ Used for compressing and extracting .rar files. rar assists in the creation, mod
 
 ## Task 2
 
-### Show Architecture of machine: 
+### Show architecture of machine: 
 ![image](https://github.com/user-attachments/assets/eea04b38-bf05-4580-b3ab-5a899eeaa4da)
 
 ### Show CPU info:
 ![image](https://github.com/user-attachments/assets/007705db-734e-408e-ab77-16bd7cffda76)
+
+### Show version of the kernel:
+![image](https://github.com/user-attachments/assets/5b757af0-d754-46fb-b504-7d0e65570a2c)
+
+### Show system date:
+![image](https://github.com/user-attachments/assets/7955707d-2178-487b-8365-1525b5bc93d2)
+
+### Set date and time:
+![image](https://github.com/user-attachments/assets/001064b8-680c-48e6-a93a-448c0cf9a97e)
+
+
+
