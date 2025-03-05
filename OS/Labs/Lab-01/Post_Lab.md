@@ -51,8 +51,11 @@ Used for compressing and extracting .rar files. rar assists in the creation, mod
 ### Create two directories simultaneously:
 ![image](https://github.com/user-attachments/assets/e791c768-d5c2-4285-b0d0-8fd756302d1a)
 
+### Show the path of the working directory:
+![image](https://github.com/user-attachments/assets/520b2687-1a23-48ae-a741-f4cdf5f85960)
 
+### Delete file called 'file1':
+![image](https://github.com/user-attachments/assets/a3741188-1638-4df4-8e5e-87b612f15dd7)
 
-
-
-
+### Remove a directory called 'dir1' and contents recursively:
+![image](https://github.com/user-attachments/assets/58f4e396-7a1a-49bd-bfa8-d4ae4e9ce8a6)
