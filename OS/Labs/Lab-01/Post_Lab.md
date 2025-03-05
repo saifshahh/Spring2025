@@ -36,5 +36,23 @@ Used for compressing and extracting .rar files. rar assists in the creation, mod
 ### Set date and time:
 ![image](https://github.com/user-attachments/assets/001064b8-680c-48e6-a93a-448c0cf9a97e)
 
+### Show details of files and directories:
+![image](https://github.com/user-attachments/assets/56824815-1e30-421e-900f-23ae8654af53)
+
+### Show hidden files:
+![image](https://github.com/user-attachments/assets/34929649-cf62-4502-b574-11724d271e59)
+
+### Show files and directories containing numbers:
+![image](https://github.com/user-attachments/assets/af833321-4553-4001-ab65-9ecc027c0a09)
+
+### Create a directory called 'dir1':
+![image](https://github.com/user-attachments/assets/aef2b0dc-8f36-40ed-9604-79758f64ba15)
+
+### Create two directories simultaneously:
+![image](https://github.com/user-attachments/assets/e791c768-d5c2-4285-b0d0-8fd756302d1a)
+
+
+
+
 
 
