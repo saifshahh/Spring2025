@@ -23,3 +23,5 @@ rar assists in the creation, modification and extraction of .rar files.
 
 ### Show Architecture of machine: 
 ![image](https://github.com/user-attachments/assets/eea04b38-bf05-4580-b3ab-5a899eeaa4da)
+
+### Show CPU info:
