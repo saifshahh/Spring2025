@@ -36,3 +36,6 @@ main PROC
 main ENDP
 END main
 ```
+
+## Output:
+![image](https://github.com/user-attachments/assets/3a2cc8cc-9034-4c37-b478-c20668b6c0ec)
