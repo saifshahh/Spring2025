@@ -36,6 +36,6 @@ main PROC
 main ENDP
 END main
 ```
-
+We will have to multiply 2 with normal indexing to access word array value and 4 to access dword array value, if the arrays were changed to WORD and DWORD respectively.
 ## Output:
 ![image](https://github.com/user-attachments/assets/3a2cc8cc-9034-4c37-b478-c20668b6c0ec)
