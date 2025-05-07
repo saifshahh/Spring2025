@@ -45,6 +45,3 @@ int main() {
     return 0;
 }
 ```
-
-## OUTPUT:
-![Screenshot from 2025-03-05 12-57-04](https://github.com/user-attachments/assets/52e97523-9676-40e0-862e-aeb13888f974)
