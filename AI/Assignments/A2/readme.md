@@ -1,6 +1,6 @@
 ### Question 1:
 
-```
+```py
 def find_peak(int N):
     left = 0
     right = N
