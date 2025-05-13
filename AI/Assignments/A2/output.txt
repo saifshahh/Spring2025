@@ -1,0 +1,43 @@
+Solutions:
+
+Puzzle 1:
+Human Based CSP: Error! string index out of range
+Google OR-Tools: Error! invalid literal for int() with base 10: 'S'
+GPT Based Solver: Error! string index out of range
+Human Based Revised: Error! string index out of range
+
+Puzzle 2:
+Human Based CSP: Error! string index out of range
+Google OR-Tools: Error! invalid literal for int() with base 10: 'S'
+GPT Based Solver: Error! string index out of range
+Human Based Revised: Error! string index out of range
+
+Puzzle 3:
+Human Based CSP: Error! string index out of range
+Google OR-Tools: Error! invalid literal for int() with base 10: ' '
+GPT Based Solver: Error! string index out of range
+Human Based Revised: Error! string index out of range
+
+Puzzle 4:
+Human Based CSP: Error! string index out of range
+Google OR-Tools: Error! invalid literal for int() with base 10: 'H'
+GPT Based Solver: Error! string index out of range
+Human Based Revised: Error! string index out of range
+
+Puzzle 5:
+Human Based CSP: Error! string index out of range
+Google OR-Tools: Error! invalid literal for int() with base 10: 'G'
+GPT Based Solver: Error! string index out of range
+Human Based Revised: Error! string index out of range
+
+Puzzle 6:
+Human Based CSP: Error! string index out of range
+Google OR-Tools: Error! invalid literal for int() with base 10: 'G'
+GPT Based Solver: Error! string index out of range
+Human Based Revised: Error! string index out of range
+
+Puzzle 7:
+Human Based CSP: Error! string index out of range
+Google OR-Tools: Error! invalid literal for int() with base 10: 'H'
+GPT Based Solver: Error! string index out of range
+Human Based Revised: Error! string index out of range
